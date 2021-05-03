@@ -28,4 +28,4 @@ To test existing pre-trained model and reproduce the result:
 python main_predictor.py --model_dir saved_tacos/ --task tacos  --pos_freeze --vq_mi --vq_mi_lambda 0.3 --vv_mi --vv_mi_lambda 0.3 --mode test
 ```
 ## Report
-Please refer to [PDF](./DL_Big_Project_Report.pdf) or [Google Doc](https://docs.google.com/document/d/1KQQfK6iFr2tw78_a8SbihfnOFV-jIkp0Gfviat-rM80/edit?usp=sharing) for more details. 
+Please refer to [PDF](./Report.pdf) or [Google Doc](https://docs.google.com/document/d/1KQQfK6iFr2tw78_a8SbihfnOFV-jIkp0Gfviat-rM80/edit?usp=sharing) for more details. 
